@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    width:200px;
+    margin:auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.completed{
+    margin-top: 80px;
+}
